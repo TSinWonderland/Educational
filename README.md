@@ -16,11 +16,14 @@ This project contains pre-built machine learning examples that are meant to be e
 - && MORE!
 
 <b>Setup:</b>
-Upload the "requirements.txt" file into your enviroment and run the following before using the code:
+Run the following before using the code:
 
 pip install -r requirements.txt
 
-<b>Note:</b> TensorFlow may fail depending on your Python version.
+<b>Important Notes:</b>
+- You must upload or include the requirements.txt file within your working environment or repository before running any scripts.
+- Any required CSV datasets must also be uploaded into your working directory or correctly referenced in the code. Ensure file paths match your local or notebook environment.
+- Some libraries, such as TensorFlow, may fail to install depending on your Python version.
 
 <b>Environment Recommended: </b>
 Jupyter Notebook / JupyterLab
