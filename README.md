@@ -14,7 +14,7 @@ This project contains pre-built machine learning examples that are meant to be e
 - Decision boundaries
 
 <b>Setup:</b>
-Run the following before using the code:
+Upload the "requirements.txt" file into your enviroment and run the following before using the code:
 
 pip install -r requirements.txt
 
